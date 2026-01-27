@@ -1,0 +1,7 @@
+"department_id","department_name","first_name"
+11,"HR","John"
+13,"Finance","Mike"
+14,"HR","Sara"
+16,"Finance","Emma"
+12,"IT",NULL
+15,"IT",NULL
