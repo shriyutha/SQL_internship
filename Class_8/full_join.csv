@@ -1,0 +1,9 @@
+"employee_id","first_name","department_name"
+1,"John","HR"
+2,"Jane",NULL
+3,"Mike","Finance"
+4,"Sara","HR"
+5,"David",NULL
+6,"Emma","Finance"
+NULL,NULL,"IT"
+NULL,NULL,"IT"
