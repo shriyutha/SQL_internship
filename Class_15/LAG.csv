@@ -1,0 +1,10 @@
+"emp_name","department","salary","previous_salary"
+"Helen","Finance","85000.00",NULL
+"Grace","Finance","70000.00","85000.00"
+"Ian","Finance","85000.00","70000.00"
+"Bob","HR","75000.00",NULL
+"Alice","HR","60000.00","75000.00"
+"Charlie","HR","75000.00","60000.00"
+"Eva","IT","120000.00",NULL
+"David","IT","90000.00","120000.00"
+"Frank","IT","95000.00","90000.00"
